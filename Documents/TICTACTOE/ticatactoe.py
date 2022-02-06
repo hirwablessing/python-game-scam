@@ -5,7 +5,7 @@ import subprocess
 
 window = Tk()
 
-window.title("Welcome to Amit Tic-Tac-Toe ")
+window.title("Welcome to Tic-Tac-Toe ")
 window.geometry("400x300")
 
 lbl = Label(window, text="Tic-tac-toe Game", font=('Helvetica', '15'))
